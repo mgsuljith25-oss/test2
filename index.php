@@ -17,6 +17,8 @@
 
 	<div id="result"></div>
 
+	<h2>second commit data added</h2>
+
 	<!-- <script src="script.js"></script> -->
 </body>
 </html>
